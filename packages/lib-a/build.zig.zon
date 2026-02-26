@@ -1,7 +1,7 @@
 .{
     .name = .lib_a,
     .version = "1.0.0",
-    .fingerprint = 0xdeadbeef03,
+    .fingerprint = 0x900bdac3cae23ea6,
     .dependencies = .{
         .lib_b = .{
             .path = "../lib-b",
