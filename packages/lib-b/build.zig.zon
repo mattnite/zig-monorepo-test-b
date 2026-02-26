@@ -1,0 +1,6 @@
+.{
+    .name = .lib_b,
+    .version = "1.0.0",
+    .fingerprint = 0xdeadbeef02,
+    .paths = .{"build.zig.zon", "build.zig", "src"},
+}
